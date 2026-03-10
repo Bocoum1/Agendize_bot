@@ -1,0 +1,476 @@
+{
+  "created_at": "2026-03-09T06:04:21Z",
+  "updated_at": "2026-03-09T14:20:52Z",
+  "current_slots": [],
+  "history": [
+    {
+      "saved_at": "2026-03-09T06:08:44Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "target_url": "https://consulatdumalienfrance.fr/rendez-vous.html",
+        "captured_responses": [
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+            "status": 200,
+            "content_type": "application/json;charset=utf-8"
+          }
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:11:11Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "target_url": "https://consulatdumalienfrance.fr/rendez-vous.html",
+        "captured_responses": [
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+            "status": 200,
+            "content_type": "application/json;charset=utf-8"
+          }
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:19:31Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "target_url": "https://consulatdumalienfrance.fr/rendez-vous.html",
+        "captured_responses": [
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+            "status": 200,
+            "content_type": "application/json;charset=utf-8"
+          }
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:34:11Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "target_url": "https://consulatdumalienfrance.fr/rendez-vous.html",
+        "captured_responses": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:37:37Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "target_url": "https://consulatdumalienfrance.fr/rendez-vous.html",
+        "captured_responses": [
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+            "status": 200,
+            "content_type": "application/json;charset=utf-8"
+          },
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+            "status": 200,
+            "content_type": "application/json;charset=utf-8"
+          }
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:42:48Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "captured_responses": [
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+            "status": 200
+          },
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+            "status": 200
+          },
+          {
+            "url": "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr",
+            "status": 200
+          }
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:44:58Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": [
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr"
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:54:34Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": [
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/freeSlots?serviceId=qt4ZWRDQZZrrJPzwdfag8SU5fR03rfQHEg3zsdgVM40%3D&startDate=2026-03-09&endDate=2026-03-13&timeZone=Europe%2FParis&minAppointmentDate=2026-03-09T08:09:18&maxAppointmentDate=2026-04-08T07:54:18&checkNextSlot=true"
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:55:44Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": [
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr"
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:56:15Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": [
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr"
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T06:57:33Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": [
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr"
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:01:56Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": [
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=?lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/services?serviceGroups=TZtbx2Gz2D_TLrUPa4QSliU5fR03rfQHEg3zsdgVM40%3D&lang=fr",
+          "https://france.agendize.com/widget/api/1.0/companies/nnMqWGpZ_UoQBWtAZTrm1CU5fR03rfQHEg3zsdgVM40=/freeSlots?serviceId=qt4ZWRDQZZrrJPzwdfag8SU5fR03rfQHEg3zsdgVM40%3D&startDate=2026-03-09&endDate=2026-03-13&timeZone=Europe%2FParis&minAppointmentDate=2026-03-09T08:16:37&maxAppointmentDate=2026-04-08T08:01:37&checkNextSlot=true"
+        ]
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:12:29Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:14:16Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:20:24Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:20:51Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:22:26Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:23:06Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:23:42Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:24:22Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:25:01Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:25:38Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {}
+    },
+    {
+      "saved_at": "2026-03-09T07:26:35Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:27:03Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:27:42Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:28:21Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:28:57Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:29:36Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:30:14Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:30:53Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:31:33Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:32:11Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:32:48Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:33:24Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:34:03Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:34:42Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:35:18Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "method": "dom_scraping"
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:35:40Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:36:10Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:36:43Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:37:14Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:37:45Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:38:15Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:38:48Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:39:21Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:40:02Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:41:32Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T07:43:07Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T14:15:29Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T14:17:04Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T14:19:15Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    },
+    {
+      "saved_at": "2026-03-09T14:20:52Z",
+      "detector_name": "playwright_network",
+      "count": 0,
+      "request_meta": {
+        "calls": []
+      }
+    }
+  ]
+}
